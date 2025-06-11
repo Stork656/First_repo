@@ -1,0 +1,10 @@
+nltk
+pymorphy2==0.8
+tensorflow
+fastapi
+pydantic
+uvicorn
+beautifulsoup4
+requests
+transformers
+torch
